@@ -1,5 +1,5 @@
 # DataSet-KEGG
-				Train		Valid		Test		Total	
+	augm_kegg_train			Train		Valid		Test		Total	
 				src	tgt	src	tgt	src	tgt
 	SFCV_1/2/3/4/5_1 (x001)		10257	10257	2567	2567	2567	2567	12824
 	SFCV_1/2/3/4/5_1 (x002)		10257	10257	2567	2567	2567	2567	12824
